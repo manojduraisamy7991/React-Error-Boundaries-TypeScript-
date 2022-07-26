@@ -11,6 +11,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+Live Demo [https://fantastic-stardust-fbc7f2.netlify.app/](https://fantastic-stardust-fbc7f2.netlify.app/) to view it in the browser.
+
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
